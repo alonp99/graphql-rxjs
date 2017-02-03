@@ -1,5 +1,7 @@
 # GraphQL-RxJs
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/DxCx/graphql-rxjs.svg)](https://greenkeeper.io/)
+
 fork of [graphql-js](https://github.com/graphql/graphql-js) which adds Observable support ([RxJs](http://reactivex.io/rxjs/)).
 
 [![npm version](https://badge.fury.io/js/graphql-rxjs.svg)](http://badge.fury.io/js/graphql-rxjs)
